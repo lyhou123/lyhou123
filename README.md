@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=#><img src="q.svg"></a>
-
+<a href=#><img src="../q.svg"></a>
 <p align="center"> 
   Visitor count<br>
-
 </p>
