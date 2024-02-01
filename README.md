@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <a href=#><img src="/q.svg"></a>
 <p align="center"> 
-  Visitor count<br>
+  Lyhou Phiv<br>
 </p>
