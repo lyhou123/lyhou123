@@ -12,9 +12,31 @@
 
 <br>
 
-<div align="center">
-    <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
-</div>
+
+<img align="left" src="https://www.pngplay.com/wp-content/uploads/12/Killua-Zoldyck-Free-PNG.png" width="279px"/>
+
+```csharp
+My Profile: ssh -i ~/.ssh/id_rsa darksword@myserver
+----------------------------------------------------------------------------------------
+Username: lyhou123
+WhoamI: Computer science and engineering student
+OS: Garuda Linux 'Raptor' with Hyprland
+Shell: zsh 5.9
+Telegram: @lyhouphiv
+Pronouns: He/Him
+Location: Planet Kepler-452b
+Languages: C,C++, Python, Java, Php, Javascript, nestjs, laravel
+Hobbyes: Python, Java, laavel
+Learning: Junior of pentesting (cybersecurity)
+FavouriteSong: old song of sinsisamut
+FavouriteEquation: Schrödinger equation and Euler's formula
+Hobbies: Gaming,watching anime,coding while I am listening music
+Languages: English
+Languages: Khmer (native)
+
+
+```
+
 
 ## 📊 **HACKER STATS** 📊
 
