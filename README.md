@@ -17,7 +17,7 @@
 
 ```csharp
 My Profile: ssh -i ~/.ssh/id_rsa darksword@myserver
-----------------------------------------------------------------------------------------
+---------------------------------------------------
 Username: lyhou123
 WhoamI: Computer science and engineering student
 OS: Garuda Linux 'Raptor' with Hyprland
@@ -38,7 +38,7 @@ Languages: Khmer (native)
 ```
 
 
-## 📊 **HACKER STATS** 📊
+##  **HACKER STATS** 
 
 <div align="center">
 
