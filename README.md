@@ -112,5 +112,3 @@ Languages: Khmer (native)
 
 
 </div>
-
----
